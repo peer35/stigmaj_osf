@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           version="4.3.0"
+           xsi:schemaLocation="http://www.crossref.org/schema/4.3.0 http://www.crossref.org/schema/4.3.0/crossref4.3.0.xsd">
+    <head>
+        <doi_batch_id>SRA_20201207</doi_batch_id>
+        <timestamp>1607330846</timestamp>
+        <depositor>
+            <name>Peter Vos</name>
+            <email_address>ojsadmin@ubvu.vu.nl</email_address>
+        </depositor>
+        <registrant>VU e-Publishing</registrant>
+    </head>
+    <body>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Is it Time to Retire the Term Stigma?</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Amir</given_name>
+                        <surname>Tal</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.57</doi>
+                    <resource>http://stigmaj.org/article/view/57</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Reconceptualizing Stigma: Toward a Critical Anti-Oppression Paradigm</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Lynn C.</given_name>
+                        <surname>Holley</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Layne K.</given_name>
+                        <surname>Stromwall</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Kathy E.</given_name>
+                        <surname>Bashor</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.46</doi>
+                    <resource>http://stigmaj.org/article/view/46</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Is Stigma A Stigmatizing Word? A Political Question for Science</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Pat</given_name>
+                        <surname>Corrigan</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Dror</given_name>
+                        <surname>Ben-Zeev</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.28</doi>
+                    <resource>http://stigmaj.org/article/view/28</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>The Implications of Stigma for Institutionalized Violence</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Cameron Ross</given_name>
+                        <surname>McCordic</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.60</doi>
+                    <resource>http://stigmaj.org/article/view/60</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Shifting our conceptualization of social inclusion</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Virginie</given_name>
+                        <surname>Cobigo</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Hélène</given_name>
+                        <surname>Ouellette-Kuntz</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Rosemary</given_name>
+                        <surname>Lysaght</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Lynn</given_name>
+                        <surname>Martin</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.45</doi>
+                    <resource>http://stigmaj.org/article/view/45</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>The psychometric assessment of internalized stigma instruments: a systematic review</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Sharon Anne Maria</given_name>
+                        <surname>Stevelink</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Ingeborg C</given_name>
+                        <surname>Wu</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Carlijn G.N.</given_name>
+                        <surname>Voorend</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Wim H.</given_name>
+                        <surname>Van Brakel</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.35</doi>
+                    <resource>http://stigmaj.org/article/view/35</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Stigma Shrinks my Bubble: A Qualitative Study of Understandings and Experiences of Stigma and
+                        Bipolar Disorder
+                    </title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Melinda</given_name>
+                        <surname>Suto</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.41</doi>
+                    <resource>http://stigmaj.org/article/view/41</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>The stigma of mental illness in Sri Lanka: the perspectives of community mental health
+                        workers
+                    </title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Namali</given_name>
+                        <surname>Samarasekara</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Matthew Lloyd Millins</given_name>
+                        <surname>Davies</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Sisira</given_name>
+                        <surname>Siribaddana</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.48</doi>
+                    <resource>http://stigmaj.org/article/view/48</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>2</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>What’s In a Name?</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Bill</given_name>
+                        <surname>George</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>03</month>
+                    <day>07</day>
+                    <year>2012</year>
+                </publication_date>
+                <doi_data>
+                    <doi>10.5463/sra.v1i3.58</doi>
+                    <resource>http://stigmaj.org/article/view/58</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>The Need for Stigma Research and Action</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Heather</given_name>
+                        <surname>Stuart</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>1-2</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.23</doi>
+                    <resource>http://stigmaj.org/article/view/23</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Stigma Related To HIV Among Community Health Workers In Chile</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Rosina</given_name>
+                        <surname>Cianelli</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Lilian</given_name>
+                        <surname>Ferrer</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Kathleen F.</given_name>
+                        <surname>Norr</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Linda</given_name>
+                        <surname>McCreary</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Lisette</given_name>
+                        <surname>Irarrázabal</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Margarita</given_name>
+                        <surname>Bernales</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Sarah</given_name>
+                        <surname>Miner</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>3-10</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.11</doi>
+                    <resource>http://stigmaj.org/article/view/11</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Internalized stigma of mental illness in Tehran, Iran</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Helia</given_name>
+                        <surname>Ghanean</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Marzieh</given_name>
+                        <surname>Nojomi</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Lars</given_name>
+                        <surname>Jacobsson</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>11-17</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.10</doi>
+                    <resource>http://stigmaj.org/article/view/10</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Implicit and Explicit Obesity Bias in Pre-adolescents and their Relations to Self-Reported
+                        Body Mass Index
+                    </title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Weidong</given_name>
+                        <surname>Li</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Paul</given_name>
+                        <surname>Rukavina</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>18-26</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.12</doi>
+                    <resource>http://stigmaj.org/article/view/12</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Chinese culture, homosexuality stigma, social support, and condom use: A path analytic
+                        model
+                    </title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Hongjie</given_name>
+                        <surname>Liu</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Tiejian</given_name>
+                        <surname>Feng</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Toan</given_name>
+                        <surname>Ha</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Hui</given_name>
+                        <surname>Liu</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Yumao</given_name>
+                        <surname>Cai</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Xiaoli</given_name>
+                        <surname>Liu</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Jian</given_name>
+                        <surname>Li</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>27-35</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.16</doi>
+                    <resource>http://stigmaj.org/article/view/16</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Self and others: the differential impact of an anti-stigma programme</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Neil</given_name>
+                        <surname>Quinn</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Michael</given_name>
+                        <surname>Smith</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Susan</given_name>
+                        <surname>Fleming</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Amanda</given_name>
+                        <surname>Shulman</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Lee</given_name>
+                        <surname>Knifton</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>36-43</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.20</doi>
+                    <resource>http://stigmaj.org/article/view/20</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Changing Knowledge and Attitudes with a Middle School Mental Health Education Curriculum
+                    </title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Otto F</given_name>
+                        <surname>Wahl</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Janet</given_name>
+                        <surname>Susin</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Lorraine</given_name>
+                        <surname>Kaplan</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Amy</given_name>
+                        <surname>Lax</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Dayna</given_name>
+                        <surname>Zatina</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>44-53</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.17</doi>
+                    <resource>http://stigmaj.org/article/view/17</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Prevalence of Internalized Stigma among Persons with Severe Mental Illness</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Michelle L.</given_name>
+                        <surname>West</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Philip T.</given_name>
+                        <surname>Yanos</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Stephen M.</given_name>
+                        <surname>Smith</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>David</given_name>
+                        <surname>Roe</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Paul H.</given_name>
+                        <surname>Lysaker</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>54-59</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.9</doi>
+                    <resource>http://stigmaj.org/article/view/9</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Substance Abuse Stigma and Discrimination Among African American Male Substance Users</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Melanie C.</given_name>
+                        <surname>Scott</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Otto F.</given_name>
+                        <surname>Wahl</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>60-66</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.3</doi>
+                    <resource>http://stigmaj.org/article/view/3</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Impact and Origin of Stigma and Discrimination in Schizophrenia: Patient Perceptions</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Amresh</given_name>
+                        <surname>Shrivastava</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Megan Elizabeth</given_name>
+                        <surname>Johnston</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Meghana</given_name>
+                        <surname>Thakar</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Siddhansh</given_name>
+                        <surname>Shrivastava</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Gopa</given_name>
+                        <surname>Sarkhel</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Iyer</given_name>
+                        <surname>Sunita</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Shubhangi</given_name>
+                        <surname>Parkar</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>67-72</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.5</doi>
+                    <resource>http://stigmaj.org/article/view/5</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>1</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Stigma</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Paul Jay</given_name>
+                        <surname>Fink</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>02</month>
+                    <day>28</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>73-75</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i1.18</doi>
+                    <resource>http://stigmaj.org/article/view/18</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Stigma as Perceived and Experienced by People with Mental Illness who receive Compulsory
+                        Community Treatment
+                    </title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>James David</given_name>
+                        <surname>Livingston</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Katherine R.</given_name>
+                        <surname>Rossiter</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>1-8</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i2.27</doi>
+                    <resource>http://stigmaj.org/article/view/27</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Reducing stigma toward seeking mental health treatment among adolescents</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Jena M</given_name>
+                        <surname>Saporito</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>C</given_name>
+                        <surname>Ryan</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Bethany</given_name>
+                        <surname>Teachman</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>9-21</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i2.26</doi>
+                    <resource>http://stigmaj.org/article/view/26</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Adolescents and Psychosis: A Study on the Attitudes in a Northern Italian Town</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Chiara</given_name>
+                        <surname>Buizza</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Rosaria</given_name>
+                        <surname>Pioli</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Laura</given_name>
+                        <surname>Pedrini</surname>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Alberto</given_name>
+                        <surname>Ghilardi</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>22-27</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i2.22</doi>
+                    <resource>http://stigmaj.org/article/view/22</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Illness-Related Stigma in the Israeli Press: Media Coverage of Severe Physical Illnesses
+                    </title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Michal</given_name>
+                        <surname>Sofer</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>28-33</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i2.19</doi>
+                    <resource>http://stigmaj.org/article/view/19</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>The ‘Human Face’ of Stigma in the Israeli Press: A Study or Representation</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Michal</given_name>
+                        <surname>Soffer</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>34-41</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i2.25</doi>
+                    <resource>http://stigmaj.org/article/view/25</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>Stigma and HIV: time for a new paradigm?</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Ian</given_name>
+                        <surname>Hodgson</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>42-45</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i2.29</doi>
+                    <resource>http://stigmaj.org/article/view/29</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+        <journal>
+            <journal_metadata>
+                <full_title>Stigma Research and Action</full_title>
+                <abbrev_title>SRA</abbrev_title>
+                <issn media_type="electronic">2210-5174</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>1</volume>
+                </journal_volume>
+                <issue>2</issue>
+            </journal_issue>
+            <journal_article publication_type="full_text">
+                <titles>
+                    <title>P.W. Corrigan, D. Roe, H.W.H. Tsang (2011) Challenging the Stigma of Mental Illness. Lessons
+                        for Therapists and Advocates. Chichester, West Sussex: Wiley-Blackwell, 231 pages.
+                    </title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Itzhak</given_name>
+                        <surname>Levav</surname>
+                    </person_name>
+                </contributors>
+                <publication_date media_type="online">
+                    <month>09</month>
+                    <day>29</day>
+                    <year>2011</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number>46-47</item_number>
+                </publisher_item>
+                <doi_data>
+                    <doi>10.5463/sra.v1i2.44</doi>
+                    <resource>http://stigmaj.org/article/view/44</resource>
+                </doi_data>
+            </journal_article>
+        </journal>
+    </body>
+</doi_batch>
